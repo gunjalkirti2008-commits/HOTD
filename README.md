@@ -1,9 +1,10 @@
-<div align="center">
+
+ <div align="center">
 
 # 🐉 HOUSE OF THE DRAGON 🐉
 ### *Fire and Blood*
 
-*A fan-made tribute to House Targaryen's dragons and riders — built with React + Vite*
+*A fan tribute to the riders of House Targaryen and Velaryon — and the dragons bound to them*
 
 
 
@@ -30,33 +31,28 @@
 
 </div>
 
-> "Dreams didn't make us kings. Dragons did."
+> "All dragons were named by the men that rode them. And so, too, were the men remembered by the dragons who bore them into legend."
 
-## 🔥 Current Focus: Dragon Roster
+## 🏰 About This Project
 
-A gallery of every dragon and their rider — house sigil colors, name, rider,
-and a short line of lore for each.
+This project brings together the riders of House Targaryen and their bonded
+dragons — profiling who they were, and the fire-breathing companions that
+carried them through war, peace, and the Dance of the Dragons.
 
-## 🎨 Color Palette
+Each profile will pair a **rider** with their **dragon**: name, house colors,
+and a piece of their story.
 
-| Color | Hex |
-|---|---|
-| Background (Dragon-scale black) | `#0D0D0D` |
-| Targaryen Red | `#8B0000` |
-| Dragon Gold | `#C9A227` |
-| Parchment White | `#F5F0E6` |
+---
 
-## 🛠️ Built With
+## 🔥 What's Coming
 
+A gallery of rider + dragon profile cards, styled in Targaryen black, red,
+and gold — built with React + Vite.
 
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
 
-
-
-
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-
+*Built with 🔥 by [gunjalkirti2008-commits](https://github.com/gunjalkirti2008-commits)*
 
 </div>
