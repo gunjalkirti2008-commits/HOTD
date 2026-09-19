@@ -3,30 +3,48 @@
 # 🐉 HOUSE OF THE DRAGON 🐉
 ### *Fire and Blood*
 
-*A fan-made tribute to the Targaryen dynasty, built with React + Vite*
+*A fan-made tribute to House Targaryen's dragons and riders — built with React + Vite*
+
+
+
+![Black](https://img.shields.io/badge/-0D0D0D?style=for-the-badge)
+
+
+
+
+![Blood Red](https://img.shields.io/badge/-8B0000?style=for-the-badge)
+
+
+
+
+![Dragon Gold](https://img.shields.io/badge/-C9A227?style=for-the-badge)
+
+
+
+
+![Bone White](https://img.shields.io/badge/-F5F0E6?style=for-the-badge)
+
+
 
 ---
 
 </div>
 
-> "The Dance of the Dragons was a war between dragons, and it remains the darkest hour in Targaryen history."
+> "Dreams didn't make us kings. Dragons did."
 
-## 🏰 About
+## 🔥 Current Focus: Dragon Roster
 
-This project is a fan-built web experience inspired by **House of the Dragon** —
-exploring the rise and ruin of House Targaryen, their dragons, and the war
-that nearly ended them.
+A gallery of every dragon and their rider — house sigil colors, name, rider,
+and a short line of lore for each.
 
----
+## 🎨 Color Palette
 
-## 🔥 Planned Features
-
-- 🏰 **House Profiles** — Targaryen, Velaryon, Hightower, and more
-- 🐲 **Dragon Roster** — Every dragon and their rider
-- 🌳 **Family Tree** — The tangled bloodline of the dragon dynasty
-- ⚔️ **Timeline** — Key events of the Dance of the Dragons
-
----
+| Color | Hex |
+|---|---|
+| Background (Dragon-scale black) | `#0D0D0D` |
+| Targaryen Red | `#8B0000` |
+| Dragon Gold | `#C9A227` |
+| Parchment White | `#F5F0E6` |
 
 ## 🛠️ Built With
 
@@ -40,11 +58,5 @@ that nearly ended them.
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
-
----
-
-<div align="center">
-
-*"Dreams didn't make us kings. Dragons did."*
 
 </div>
