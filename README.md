@@ -1,9 +1,6 @@
-<div align="center">
-
 # House of the Dragon
-### Fire and Blood
 
-*A fan tribute to the riders of House Targaryen and Velaryon — and the dragons bound to them*
+A React-based fan project profiling the riders of House Targaryen and Velaryon alongside their dragons.
 
 
 
@@ -26,38 +23,26 @@
 
 
 
-</div>
-
----
-
 ## Table of Contents
 
-- [About](#about)
+- [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Roadmap](#roadmap)
+- [License](#license)
 - [Author](#author)
 
----
+## Overview
 
-## About
-
-> "All dragons were named by the men that rode them. And so, too, were the men remembered by the dragons who bore them into legend."
-
-This project brings together the riders of House Targaryen and their bonded dragons — profiling who they were, and the fire-breathing companions that carried them through war, peace, and the Dance of the Dragons.
-
-Each profile pairs a **rider** with their **dragon**: name, house, and a piece of their story.
-
----
+This project catalogs the riders of House Targaryen and House Velaryon, pairing each rider with their bonded dragon. It includes a short profile and background for each pairing.
 
 ## Features
 
-- Rider + dragon profile cards
-- House-based color theming (Targaryen, Velaryon)
-- Built with a modern React + Vite frontend
-
----
+- Rider and dragon profile cards
+- House-based visual theming
+- Responsive layout built with React and Vite
 
 ## Tech Stack
 
@@ -67,12 +52,9 @@ Each profile pairs a **rider** with their **dragon**: name, house, and a piece o
 | Build Tool | Vite |
 | Styling | CSS |
 
----
-
-## Getting Started
+## Installation
 
 ```bash
 git clone https://github.com/gunjalkirti2008-commits/house-of-the-dragon.git
 cd house-of-the-dragon
 npm install
-npm run dev
