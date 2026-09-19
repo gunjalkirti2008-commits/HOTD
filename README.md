@@ -1,31 +1,9 @@
+<div align="center">
 
- <div align="center">
-
-# 🐉 HOUSE OF THE DRAGON 🐉
+#  HOUSE OF THE DRAGON 
 ### *Fire and Blood*
 
 *A fan tribute to the riders of House Targaryen and Velaryon — and the dragons bound to them*
-
-
-
-![Black](https://img.shields.io/badge/-0D0D0D?style=for-the-badge)
-
-
-
-
-![Blood Red](https://img.shields.io/badge/-8B0000?style=for-the-badge)
-
-
-
-
-![Dragon Gold](https://img.shields.io/badge/-C9A227?style=for-the-badge)
-
-
-
-
-![Bone White](https://img.shields.io/badge/-F5F0E6?style=for-the-badge)
-
-
 
 ---
 
